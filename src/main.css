@@ -57,12 +57,6 @@ h6 a {
   text-decoration: none !important;
 }
 
-h2 {
-  border-bottom: 1px solid;
-  border-color: inherit;
-  padding-bottom: 5px;
-}
-
 h4,
 h5,
 h6 {
@@ -154,6 +148,33 @@ body {
     margin-right: auto;
     margin-top: 1em;
   }
+}
+
+hgroup h1 {
+  font-size: 3em;
+}
+
+hgroup p {
+  opacity: .7;
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+.document{
+  max-width: 700px;
+  font-size: 1rem;
+}
+
+.document main > h1 {
+  border-bottom: 1px solid;
+  border-bottom-color: #ccc; 
+  padding-bottom: 5px;
+}
+
+body:not(.document) h2 {
+  border-bottom: 1px solid;
+  border-color: inherit;
+  padding-bottom: 5px;
 }
 
 .h-feed time {
