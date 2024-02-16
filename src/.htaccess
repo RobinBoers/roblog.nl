@@ -35,6 +35,9 @@ Redirect 302 /.well-known/security.txt /security.txt
 Redirect 302 /.well-known/carddav https://contacts.dupunkto.org/admin/axcelott/d04048ab-e2e6-f5bd-1965-9794fe86a398/
 Redirect 302 /.well-known/caldav https://contacts.dupunkto.org/admin/axcelott/d04048ab-e2e6-f5bd-1965-9794fe86a398/
 
+# Redirect RSS feed
+Redirect 302 /index.xml /rss.xml
+
 # Preserve bandwidth for PHP enabled servers
 <IfModule mod_php4.c>
 	php_value zlib.output_compression 16386

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Robin (axcelott)</title>
+  <subtitle>Thoughts and opinions of a teenager from the Netherlands.</subtitle>
+  <id>https://roblog.nl/</id>
+  <link href="https://roblog.nl/" />
+  <author>
+    <name>Robin Boers</name>
+    <email>webmaster@roblog.nl</email>
+  </author>
+  <rights>Made with ♡ in the Netherlands. Copying is an act of love. Please copy.</rights>
+  <link href="https://roblog.nl/atom.xml" rel="self" type="application/atom+xml" />
+
+  <!-- INSERT NEW POSTS HERE -->
+  <entry>
+    <title>Movies and Limited Series</title>
+    <link href="https://roblog.nl/blog/good-movies" />
+    <published>2024-02-07T12:00:00+01:00</published>
+    <id>https://roblog.nl/blog/good-movies</id>
+    <content type="html"><![CDATA[ <p>So lately I've been watching a lot of Netflix.</p>
+      <p>
+        Generally I'm not the kind of person that consumes a lot of media. I'd
+        rather make things; I find creating things way more satisfying.
+      </p>
+
+      <p>
+        However, I got a bit burned out in terms of ideas — I didn't know what
+        to build — enery, and time (school am I right ✨). So, instead I spent
+        about 20 hours of my life staring at a screen, looking at fictional
+        characters living their almost perfect made-up lives.
+      </p>
+
+      <p>Anyways, I really enjoyed these in particular:</p>
+
+      <ul>
+        <li>After</li>
+        <li>Tick, tick… BOOM!</li>
+        <li>Heartstopper</li>
+        <li>Inventing Anna</li>
+        <li>Bohemian Rhapsody</li>
+        <li>Love, Rosie</li>
+        <li>Friends with Benefits</li>
+        <li>Lady Chatterley's Lover</li>
+        <li>The Girl Nextdoor</li>
+        <li>Queen's Gambit</li>
+        <li>Don't Look Up</li>
+        <li>Dirty Lines</li>
+        <li>The Social Network</li>
+        <li>The Playlist</li>
+        <li>The Social Dilemma</li>
+        <li>Yesterday</li>
+        <li>I Used to Be Famous</li>
+        <li>We Are the Wave</li>
+      </ul>
+
+      <p>
+        I really enjoyed the mini series in particular; it allows the filmmaker
+        to tell a more detailed story, yet it doesn't require as much time (and
+        commitment) to watch, opposed to, forexample, a 7-season-long show.
+      </p>
+
+      <p>
+        A movie feels short when you're used to a series. But that's part of the
+        appeal I think. A movie doesn't try to suck you in, like a series does.
+        It just tells a story.
+      </p>
+
+      <details>
+        <summary>Context</summary>
+        <p>
+          I wrote this a while back (somewhere fall last year), but I forgot to
+          publish it. I found the draft yesterday.
+        </p>
+
+        <p>
+          Also, a lot of movies listed above share one common theme: they're all
+          semi-related to the reproductive system; I'm a teenager, after all ;)
+        </p>
+      </details> ]]></content>
+  </entry>
+
+</feed>
